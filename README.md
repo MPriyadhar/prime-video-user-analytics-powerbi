@@ -1,10 +1,42 @@
-
-# Prime video-Dashboard
-
-### Dashboard Link : https://app.powerbi.com/groups/df595e11-8a73-441f-8e20-c8dd964ce95a/reports/0afeb3c6-e9dd-4499-a356-156c68e5f8af/82457bcae39657a0c2e2?experience=power-bi
+# OTT Platform User Engagement Analytics (Power BI)
 
 ## Problem Statement
+OTT platforms require data-driven insights into user demographics, content preferences, device usage, and engagement levels to improve customer retention and personalization strategies.
 
-With the rapid growth of online streaming platforms, understanding viewer preferences, content performance, and subscriber behavior is critical for informed decision-making. This project focuses on creating an interactive dashboard in Power BI to analyze Prime Video's data. The dashboard provides insights into metrics such as popular genres, content ratings, regional performance, subscription trends, and viewer engagement, enabling stakeholders to optimize content strategy and improve user satisfaction.
+## Objective
+- Analyze user behavior and engagement metrics
+- Identify gender-based content preferences
+- Understand device usage patterns
+- Provide actionable insights for business and product teams
 
+## Dataset
+- Simulated / anonymized OTT platform user data
+- Includes user demographics, content genres, devices, locations, and feedback metrics
+
+## Key KPIs
+- Total Users
+- Total Customer Support Interactions
+- Total Feedbacks
+- Overall Engagement Level
+
+## Dashboard Insights
+- Gender-wise favorite content genres
+- User distribution by gender
+- Geographic distribution of users
+- Device usage breakdown (Smartphone, Tablet, Smart TV)
+- Subscription usage frequency across devices
+
+## Tools & Technologies
+- Power BI
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX (where applicable)
+
+## Business Impact
+- Helps marketing teams optimize content and campaign strategies
+- Assists product teams in understanding device usage behavior
+- Supports data-driven decision-making for improving user engagement
+
+## Dashboard Preview
+![Power BI Dashboard](screenshots/dashboard.png)
 
